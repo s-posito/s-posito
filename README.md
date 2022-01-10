@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @s-posito
-- 👀 I’m interested in pastry
 - 🌱 I’m currently learning Computer-Science at Polytech Paris-Saclay
-- 💞️ I’m looking to collaborate on me
 - 📫 How to reach me : esteban@neraudau.fr
 
 <!---
